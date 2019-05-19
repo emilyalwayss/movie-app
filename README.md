@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Set Up
 
-Clone the repo<br>
+Clone the repo: `git clone https://github.com/emilyalwayss/movie-app.git`<br>
 Navigate to the directory<br>
 `yarn install` to install all dependencies<br>
 `yarn start` to run the app in development mode<br>
