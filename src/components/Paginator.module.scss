@@ -1,0 +1,17 @@
+.paginator {
+  margin-bottom: 18px;
+  display: flex;
+}
+
+.left {
+  margin-right: 4px;
+}
+
+.page {
+  margin-right: 4px;
+}
+
+.current {
+  background-color: lightBlue;
+  color: white;
+}

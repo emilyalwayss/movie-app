@@ -1,0 +1,19 @@
+.movieInfo {
+  align-self: flex-start;
+  display: flex;
+  padding: 8px;
+}
+
+.poster {
+  margin-right: 8px;
+  max-width: 80px;
+  max-height: 120px;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.releaseDate {
+  color: gray;
+}
