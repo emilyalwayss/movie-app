@@ -13,5 +13,6 @@ I created a separate component for each element that had functionality/logic tha
 
 ### Future Improvements
 
-I would spend more time testing on different browsers/devices for (IE) bugs and responsiveness issues.
+I would implement a debounce on the search function so that it is not hitting the API each time a change is made.
+I would also spend more time testing on different browsers/devices for (IE) bugs and responsiveness issues.
 
